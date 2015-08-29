@@ -10,6 +10,6 @@
 
 <?php 
 
-	echo "He robado a diego";
+	echo "He robado a diego editado";
 
  ?>
